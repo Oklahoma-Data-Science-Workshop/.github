@@ -30,6 +30,8 @@ Speakers either volunteer in response to a call for talks at the start of each s
 This Readme file provides information about the Data Science Workshop and serves as an access point to the repositories associated with each recorded presentation.
 Each repository provides a speaker with the opportunity to upload the associated slides, code files, competition notebooks, and other relevant materials for attendees to further their self-study.
 
+## Funding
+
+Summer Pilot Grant from DISC.
 
 
--->
