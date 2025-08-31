@@ -10,7 +10,7 @@ The DSW provides a venue for scientists to share their knowledge and experiences
 Because the meetings are held in public, the speakers must be aware of the risks associated with discussing unpublished results.
 Likewise, results involving personal health information have to be de-identified.
 The same applies to identifying information regarding students who may have participated in a survey.
-Quite often, the tools and algorithms that are discussed are at the cutting edge, and they do not appear in formal coursework for several years, if ever.
+Quite often, the tools and algorithms discussed are at the cutting edge and do not appear in formal coursework for several years, if ever.
 
 ## When do the meetings occur?
 The meetings are held at noon on the third Friday of each month except for July and December.
@@ -21,7 +21,7 @@ The videos of the talks and discussions are posted online within several working
 ## Who gives the talks?
 Participants come from several institutions of higher learning in the state of Oklahoma, as well as guests from outside of the state.
 The talks are presented by scientists at all levels, with approximately a quarter of the talks given by graduate students.
-Speakers either volunteer in respose to a call for talks at the start of each semester or are recruited.
+Speakers either volunteer in response to a call for talks at the start of each semester or are recruited.
 
 
 
