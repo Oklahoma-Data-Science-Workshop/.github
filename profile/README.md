@@ -32,6 +32,6 @@ Each repository provides a speaker with the opportunity to upload the associated
 
 ## Funding
 
-Summer Pilot Grant from DISC.
+2025 Summer Pilot Grant from the Institute for Data in Social Change at the University of Oklahoma.
 
 
