@@ -18,7 +18,7 @@ The talks last for 1 hour, followed by a subsequent question-and-answer session 
 
 ## Are the talks recorded?
 Yes, both the talk and the discussions are recorded for later viewing.
-The videos of the talks and discussions are posted online within several working days [Link to videos](https://mediasite.ouhsc.edu/Mediasite/Channel/python/browse/null/most-recent/null/0/null).
+The videos of the talks and discussions are posted online within several working days [Link to videos](https://mediasite.ou.edu/Mediasite/Channel/odsw/browse/null/most-recent/null/0/null).
 
 ## Who gives the talks?
 Participants come from several institutions of higher learning in the state of Oklahoma, as well as guests from outside of the state.
