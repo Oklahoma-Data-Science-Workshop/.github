@@ -30,6 +30,55 @@ Speakers either volunteer in response to a call for talks at the start of each s
 This Readme file provides information about the Data Science Workshop and serves as a gateway to the repositories associated with each recorded presentation.
 Each repository provides a speaker with the opportunity to upload the associated slides, code files, competition notebooks, and other relevant materials for attendees to further their self-study.
 
+
+## Upcoming Speakers
+
+| Date | Speaker | Topic |
+|------|---------|-------|
+| October 17, 2025 | Nisha Roa | Causal inference in health statistics |
+| November 21, 2025 | Cory Giles | Graphical neural networks |
+| December 12, 2025 | TBD | |
+| February 20, 2026 | TBD | |
+| March 27, 2026 | TBD | |
+| April 20, 2026 | Jindahl Shah | TBD |
+| May 15, 2026 | TBD | |
+
+## Open Topics for Future Presentations
+
+### Development Tools
+- reactive computing: pluto, marumo
+- Claude Code, aider, tmux
+- Terminal emulators: kitty, Ghostty, warp, Alacrity, Wezterm
+- Windsurf, Cursor, helix, zed
+- Jupyter Lab, RStudio, Visual Studio Code
+
+### Knowledge Management
+- Personal knowledge management: supertags, obsidian, org-roam, ekg, logseq
+- treesitter and LSPs
+- Reference management
+- Overleaf
+
+### Research Tools
+- Software testing, experimental design
+- Regular expressions, speech-to-text
+- Simulations in data analysis
+- AI art, prompt engineering
+- Agentic programming
+
+## Acknowledgements
+
+- **Collaborator:** Dr. William Beasley
+- **Funding Sources:**
+  - DISC Summer Pilot Grant
+  - NIH: R01 CA242845
+  - NIH: P20 GM103640, P30 CA225520, P30 AG050911-07S1
+
+## Contributing to This Repository
+
+Workshop participants are encouraged to:
+1. Upload slides, notebooks, and scripts from their presentations
+2. Edit the main README.md file with their contribution details
+3. Follow the established Git workflow demonstrated in this presentation
 ## Funding
 
 2025 Summer Pilot Grant from the Institute for Data in Social Change at the University of Oklahoma.
