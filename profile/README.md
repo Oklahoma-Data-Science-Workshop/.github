@@ -80,7 +80,7 @@ Do not take these lists as prescriptive; please use them as inspirational.
 
 | Date | Speaker | Talk title | Video Link | Repository Link(s) |
 |------|--------| -------|-----|------|  
-
+| 2025 September 19 | Blaine Mooers | Introduction to Git and GitHub| [vidoe](https://mediasite.ou.edu/Mediasite/Channel/odsw/watch/ffc3adc5c6c149ebb4eac3564ac469731d?sortBy=most-recent)   | [click](https://github.com/Oklahoma-Data-Science-Workshop/2025-mooers-september)   | 
 ## Acknowledgements
 
 - **Collaborator:** Dr. William Beasley
