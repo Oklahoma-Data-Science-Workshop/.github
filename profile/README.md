@@ -1,6 +1,6 @@
-# Oklahoma Data Science Workshop (DSW)
+# Oklahoma Data Science Workshop (ODSW)
 
-## What is the DSW?
+## What is the ODSW?
 This is the central site for sharing materials related to presentations made in the Oklahoma Data Science Workshop (DSW) over the past several years.
 The DSW is a platform for scientists to discuss how they utilize computing in their research.
 Many of the speakers work in departments where a departmental seminar may not be the most appropriate venue for them to discuss computing and software tools.
