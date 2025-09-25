@@ -68,6 +68,18 @@ Each repository provides a speaker with the opportunity to upload the associated
 - AI art, prompt engineering
 - Agentic programming
 
+
+## Oklahoma Data Science Workshop GitHub Organization
+
+The ODSW provides a platform for scientists to discuss computational tools and share knowledge.
+
+**What is discussed in the workshop?**
+- Cutting-edge tools and algorithms
+- Published or unpublished results (with appropriate disclaimers)
+- Personal health information must be de-identified
+- Student participation information must be anonymized
+
+
 ## Acknowledgements
 
 - **Collaborator:** Dr. William Beasley
