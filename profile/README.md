@@ -43,20 +43,19 @@ Speakers either volunteer in response to a call for talks at the start of each s
 This Readme file provides information about the Data Science Workshop and serves as a gateway to the repositories associated with each recorded presentation.
 Each repository provides a speaker with the opportunity to upload the associated slides, code files, competition notebooks, and other relevant materials for attendees to further their self-study.
 
-
-
-
 ## Open Topics for Future Presentations
 
+Do not take these lists as prescriptive; please use them as inspirational.
+
 ### Development Tools
-- reactive computing: pluto, marumo
+- reactive computing: pluto, marimo
 - Claude Code, aider, tmux
 - Terminal emulators: kitty, Ghostty, warp, Alacrity, Wezterm
 - Windsurf, Cursor, helix, zed
 - Jupyter Lab, RStudio, Visual Studio Code
 
 ### Knowledge Management
-- Personal knowledge management: supertags, obsidian, org-roam, ekg, logseq
+- Personal knowledge management: supertags, Obsidian, org-roam, ekg, Logseq
 - treesitter and LSPs
 - Reference management
 - Overleaf
@@ -65,7 +64,8 @@ Each repository provides a speaker with the opportunity to upload the associated
 - Software testing, experimental design
 - Regular expressions, speech-to-text
 - Simulations in data analysis
-- AI art, prompt engineering
+- AI art
+- prompt engineering
 - Agentic programming
 
 
