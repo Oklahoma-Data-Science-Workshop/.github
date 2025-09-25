@@ -76,6 +76,11 @@ Do not take these lists as prescriptive; please use them as inspirational.
 - Student participation information must be anonymized
 
 
+## Index of past talks
+
+| Date | Speaker | Talk title | Video Link | Repository Link(s) |
+|------|--------| -------|-----|------|  
+
 ## Acknowledgements
 
 - **Collaborator:** Dr. William Beasley
