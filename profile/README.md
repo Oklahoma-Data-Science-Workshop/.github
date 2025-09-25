@@ -16,6 +16,18 @@ Quite often, the tools and algorithms discussed are at the cutting edge and do n
 The meetings are held at noon on the third Friday of each month except for July and December.
 The talks last for 1 hour, followed by a subsequent question-and-answer session that generally averages about 20 minutes in length.
 
+## Upcoming Speakers
+
+| Date | Speaker | Topic |
+|------|---------|-------|
+| October 17, 2025 | Nisha Roa | Causal inference in health statistics |
+| November 21, 2025 | Cory Giles | Graphical neural networks |
+| December 12, 2025 | TBD | |
+| February 20, 2026 | TBD | |
+| March 27, 2026 | TBD | |
+| April 20, 2026 | Jindahl Shah | TBD |
+| May 15, 2026 | TBD | |
+
 ## Are the talks recorded?
 Yes, both the talk and the discussions are recorded for later viewing.
 The videos of the talks and discussions are posted online within several working days [Link to videos](https://mediasite.ou.edu/Mediasite/Channel/odsw).
@@ -31,17 +43,7 @@ This Readme file provides information about the Data Science Workshop and serves
 Each repository provides a speaker with the opportunity to upload the associated slides, code files, competition notebooks, and other relevant materials for attendees to further their self-study.
 
 
-## Upcoming Speakers
 
-| Date | Speaker | Topic |
-|------|---------|-------|
-| October 17, 2025 | Nisha Roa | Causal inference in health statistics |
-| November 21, 2025 | Cory Giles | Graphical neural networks |
-| December 12, 2025 | TBD | |
-| February 20, 2026 | TBD | |
-| March 27, 2026 | TBD | |
-| April 20, 2026 | Jindahl Shah | TBD |
-| May 15, 2026 | TBD | |
 
 ## Open Topics for Future Presentations
 
