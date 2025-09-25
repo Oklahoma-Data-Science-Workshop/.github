@@ -69,10 +69,6 @@ Do not take these lists as prescriptive; please use them as inspirational.
 - Agentic programming
 
 
-## Oklahoma Data Science Workshop GitHub Organization
-
-The ODSW provides a platform for scientists to discuss computational tools and share knowledge.
-
 **What is discussed in the workshop?**
 - Cutting-edge tools and algorithms
 - Published or unpublished results (with appropriate disclaimers)
