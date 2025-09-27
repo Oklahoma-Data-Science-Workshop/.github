@@ -108,7 +108,7 @@ Do not take these lists as prescriptive; please use them as inspirational.
 | April 20     | Blaine Mooers               | Biochemistry and Physiology, OUHSC        | Doing Science with Clojure                                                                        |      |       |
 | January 12   | Mark Laufersweiler          | University Libraries, OU                  | A common Environment for Instruction and Research Notebooks                                       |     |        |
 | **2022** | | | | | |
-| November 10  | Andrew Fagg and Andrew Fagg | OU and OUHSC                              | Beginner's Guide to Doing Science on the OU Supercomputer                                         |     |        |
+| November 10  | Andrew Fagg and Blaine Mooers | OU and OUHSC                              | Beginner's Guide to Doing Science on the OU Supercomputer                                         |     |        |
 | September 22 | Andrew Fagg                 | Computer Science, OU                      | Gentle Introduction to Deep Learning II                                                           |     |        |
 | August 18    | Andrew Fagg                 | Computer Science, OU                      | Deep Learning Demo                                                                                |     |        |
 | July 21      | Blaine Mooers               | Biochemistry and Molecular Biology, OUHSC | Edit live Jupyter notebooks from the comfort of your favorite text editor                         |     |        |
