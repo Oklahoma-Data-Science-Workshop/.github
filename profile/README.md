@@ -126,8 +126,6 @@ Do not take these lists as prescriptive; please use them as inspirational.
 | 2021 February 18  | Hunter Porter               | Wren Lab, OMRF                            | Understanding Neural Networks and Their Applications as a Biologist                               |      |       |
 | 2021 January 21   | Cory Giles                  | Wren Lab, OMRF                            | Overview of Deep Learning: A Versatile Toolkit for Unified ML                                     |      |       |
 |-------------------|-----------------------------|-------------------------------------------|---------------------------------------------------------------------------------------------------|------|-------|
-|                   |                             |                                           | Python Workshop                                                                                   |      |       |
-|-------------------|-----------------------------|-------------------------------------------|---------------------------------------------------------------------------------------------------|------|-------|
 | 2020 June 18      | Blaine Mooers               | Biochemistry and Molecular Biology, OUHSC | Parallel Computing in Jupyter Notebooks                                                           |      |       |
 | 2020 January 16   | Cory Giles                  | Wren Lab, OMRF                            | Code Management and Distribution                                                                  |      |       |
 | 2019 November 21  | Melissa Nestor              | IT Data Services, OU                      | Data Sciences Tools HSC                                                                           |      |       |
