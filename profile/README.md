@@ -81,6 +81,7 @@ Do not take these lists as prescriptive; please use them as inspirational.
 | Date | Speaker | Affiliation |Talk title | Video Link | Repository Link(s) |
 |------|---------|-------------|-----------|------------|--------------------|  
 | 2025 September 19 | Blaine Mooers |Biochemistry and Physiology, OUHSC   | Introduction to Git and GitHub| [video](https://mediasite.ou.edu/Mediasite/Channel/odsw/watch/ffc3adc5c6c149ebb4eac3564ac469731d?sortBy=most-recent)   | [click](https://github.com/Oklahoma-Data-Science-Workshop/2025-mooers-september)   | 
+| **2025** | | | | | |
 | 2025 June 27| Marcus Birkenkrahe |Computer Science, Lyon College | Generative AI as Muse or Tool in the Research Process | | |
 | 2025 May 23       | Henry Neeman                | OSCER, OU                                 | OU IT Research Computing Capabilities Update                                                      |     |        |
 | 2025 April 18     | Jindal Shah                 | Chemical Engineering, OSU                 | A Hands-On Tutorial on Using Google Colab for Machine Learning                                    |     |        |
