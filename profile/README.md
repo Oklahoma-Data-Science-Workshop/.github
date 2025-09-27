@@ -125,7 +125,6 @@ Do not take these lists as prescriptive; please use them as inspirational.
 | 2021 March 18     | Chase Brown                 | Wren Lab, OMRF                            | Reinforcement Learning and its future in biology                                                  |       |      |
 | 2021 February 18  | Hunter Porter               | Wren Lab, OMRF                            | Understanding Neural Networks and Their Applications as a Biologist                               |      |       |
 | 2021 January 21   | Cory Giles                  | Wren Lab, OMRF                            | Overview of Deep Learning: A Versatile Toolkit for Unified ML                                     |      |       |
-|-------------------|-----------------------------|-------------------------------------------|---------------------------------------------------------------------------------------------------|------|-------|
 | 2020 June 18      | Blaine Mooers               | Biochemistry and Molecular Biology, OUHSC | Parallel Computing in Jupyter Notebooks                                                           |      |       |
 | 2020 January 16   | Cory Giles                  | Wren Lab, OMRF                            | Code Management and Distribution                                                                  |      |       |
 | 2019 November 21  | Melissa Nestor              | IT Data Services, OU                      | Data Sciences Tools HSC                                                                           |      |       |
@@ -133,7 +132,6 @@ Do not take these lists as prescriptive; please use them as inspirational.
 | 2019 September 19 | Aleksandra Perez            | Wren Lab, OMRF                            | My very own PCA                                                                                   |       |      |
 | 2019 July 18      | Blaine Mooers               | Biochemistry and Molecular Biology, OUHSC | Using Python to ease the use of the molecular graphics program PyMOL                              |      |       |
 | 2019 June 20      | Cory Giles                  | Wren Lab, OMRF                            | Machine Learning in Python: Introduction to scikit-learn                                          |      |       |
-|-------------------|-----------------------------|-------------------------------------------|---------------------------------------------------------------------------------------------------|------|-------|
 
 
 
