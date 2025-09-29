@@ -145,7 +145,7 @@ Do not take these lists as prescriptive; please use them as inspirational.
 ## Activity graph
 ## Contribution Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=moooerlab&theme=github-compact)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Oklahoma-Data-Science-Workshop&theme=github-compact)
 
 
 ## Acknowledgements
