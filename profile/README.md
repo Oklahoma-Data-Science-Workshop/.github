@@ -142,12 +142,14 @@ Do not take these lists as prescriptive; please use them as inspirational.
 
 
 
+## Activity graph
+## Contribution Activity
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=moooerlab&theme=github-compact)
 
 
 ## Acknowledgements
 
-- **Collaborator:** Dr. William Beasley
 - **Funding Sources:**
   - DISC Summer Pilot Grant
   - NIH: R01 CA242845
