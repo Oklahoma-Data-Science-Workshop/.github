@@ -142,12 +142,6 @@ Do not take these lists as prescriptive; please use them as inspirational.
 
 
 
-## Activity graph
-## Contribution Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MooersLab&theme=github-compact)
-
-
 ## Acknowledgements
 
 - **Funding Sources:**
