@@ -145,7 +145,7 @@ Do not take these lists as prescriptive; please use them as inspirational.
 ## Activity graph
 ## Contribution Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Oklahoma-Data-Science-Workshop&theme=github-compact)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MooersLab&theme=github-compact)
 
 
 ## Acknowledgements
@@ -165,4 +165,5 @@ Workshop participants are encouraged to:
 
 2025 Summer Pilot Grant from the Institute for Data in Social Change at the University of Oklahoma.
 
+**Oklahoma-Data-Science-Workshop/Oklahoma-Data-Science-Workshop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on his GitHub profile 👋.
 
