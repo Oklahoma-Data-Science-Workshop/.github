@@ -27,7 +27,7 @@ The talks last for 1 hour, followed by a subsequent question-and-answer session 
 | February 20, 2026 | TBD | |
 | March 27, 2026 | TBD | |
 | April 20, 2026 | Jindahl Shah | TBD |
-| May 15, 2026 | TBD | |
+| May 15, 2026 | Marcus Birkenkrahe | Coding with generative AI |
 
 ## Are the talks recorded?
 Yes, both the talk and the discussions are recorded for later viewing.
