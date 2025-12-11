@@ -20,7 +20,7 @@ The talks last for 1 hour, followed by a subsequent question-and-answer session 
 
 | Date | Speaker | Topic |
 |------|---------|-------|
-| December 19, 2025 | Blaine Mooers | AI-assisted knowledge bases |
+| December 19, 2025 | Blaine Mooers | AI-assisted knowledge management for scientists |
 | January 16, 2026 | TBD| |
 | February 20, 2026 | TBD | |
 | March 27, 2026 | TBD | |
