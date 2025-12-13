@@ -22,7 +22,7 @@ The talks last for 1 hour, followed by a subsequent question-and-answer session 
 |------|---------|-------|
 | December 19, 2025 | Blaine Mooers | AI-assisted knowledge management for scientists |
 | January 16, 2026 | TBD| |
-| February 20, 2026 | TBD | |
+| February 20, 2026 | Matthews Younger | TBD |
 | March 27, 2026 | TBD | |
 | April 20, 2026 | Jindahl Shah | TBD |
 | May 15, 2026 | Marcus Birkenkrahe | Coding with generative AI |
