@@ -20,8 +20,7 @@ The talks last for 1 hour, followed by a subsequent question-and-answer session 
 
 | Date | Speaker | Topic |
 |------|---------|-------|
-| December 19, 2025 | Blaine Mooers | AI-assisted knowledge management for scientists |
-| January 16, 2026 | TBD| |
+| January 16, 2026 | Blaine Mooers| Using Obsidian with AI to support scientific writing |
 | February 20, 2026 | Matthews Younger | TBD |
 | March 27, 2026 | TBD | |
 | April 20, 2026 | Jindahl Shah | TBD |
