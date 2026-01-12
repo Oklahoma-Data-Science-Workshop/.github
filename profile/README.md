@@ -21,7 +21,7 @@ The talks last for 1 hour, followed by a subsequent question-and-answer session 
 | Date | Speaker | Topic |
 |------|---------|-------|
 | January 16, 2026 | Blaine Mooers| Using Obsidian with AI to support scientific writing |
-| February 20, 2026 | Matthews Younger | TBD |
+| February 20, 2026 | Matthew Younger | Signal processing of Morse Code |
 | March 27, 2026 | TBD | |
 | April 20, 2026 | Jindahl Shah | TBD |
 | May 15, 2026 | Marcus Birkenkrahe | Coding with generative AI |
