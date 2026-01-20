@@ -20,7 +20,6 @@ The talks last for 1 hour, followed by a subsequent question-and-answer session 
 
 | Date | Speaker | Topic |
 |------|---------|-------|
-| January 16, 2026 | Blaine Mooers| Using Obsidian with AI to support scientific writing |
 | February 20, 2026 | Matthew Younger | Polyglot programming |
 | March 27, 2026 | TBD | |
 | April 17, 2026 | Jindahl Shah | Experiences with Knowledge Management |
@@ -77,7 +76,7 @@ Do not take these lists as prescriptive; please use them as inspirational.
 | Date | Speaker | Affiliation |Talk title | Video Link | Repository Link(s) |
 |------|---------|-------------|-----------|------------|--------------------| 
 | **2026** | | | | | |
-| January 16 | Blaine Mooers | Biochemistry and Physiology, OUHSC| Set up Obsidian with AI to support research | video| [Materials from talk](https://github.com/Oklahoma-Data-Science-Workshop/2026-mooers-january)   |
+| January 16 | Blaine Mooers | Biochemistry and Physiology, OUHSC| Using Obsidian with AI to support scientific writing  | video| [Materials from talk](https://github.com/Oklahoma-Data-Science-Workshop/2026-mooers-january)   |
 | **2025** | | | | | |
 | December 19| Blaine Mooers | Biochemistry and Physiology, OUHSC| AI-assisted Knowledge Management for Scientists |[Recording of talk and discussion](https://mediasite.ou.edu/Mediasite/Channel/odsw/watch/c5074cc713464cf493167f5ff2f1a66a1d?sortBy=most-recent)|[Materials from talk](https://github.com/Oklahoma-Data-Science-Workshop/2025-mooers-december) |
 | November 21 | Cory Giles | Wren Lab, OMRF | GNNs for Multimodal Biological Data Integration|[Recording of talk and discussion](https://mediasite.ou.edu/Mediasite/Channel/odsw/watch/523fca3700c5437490e3d39bf173976c1d?sortBy=most-recent)| |[Materials from talk][Materials from talk](https://github.com/Oklahoma-Data-Science-Workshop/2025-giles-november) 
