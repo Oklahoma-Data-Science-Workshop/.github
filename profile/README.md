@@ -21,7 +21,7 @@ The talks last for 1 hour, followed by a subsequent question-and-answer session 
 | Date | Speaker | Topic |
 |------|---------|-------|
 | February 20, 2026 | Matthew Younger | Polyglot programming |
-| March 27, 2026 | TBD | |
+| March 20, 2026 | Xijin Ge | Claude Code |
 | April 17, 2026 | Jindahl Shah | Experiences with Knowledge Management |
 | May 15, 2026 | Marcus Birkenkrahe| Agentic programming |
 
