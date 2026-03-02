@@ -20,7 +20,6 @@ The talks last for 1 hour, followed by a subsequent question-and-answer session 
 
 | Date | Speaker | Topic |
 |------|---------|-------|
-| February 27, 2026 | Matthew Younger | Polyglot programming |
 | March 20, 2026 | Xijin Ge | Claude Code |
 | April 17, 2026 | Jindahl Shah | Experiences with Knowledge Management |
 | May 15, 2026 | Marcus Birkenkrahe| Agentic programming |
@@ -76,6 +75,7 @@ Do not take these lists as prescriptive; please use them as inspirational.
 | Date | Speaker | Affiliation |Talk title | Video Link | Repository Link(s) |
 |------|---------|-------------|-----------|------------|--------------------| 
 | **2026** | | | | | |
+| February 27 | Matthew Younger | Computer Science, Lyon College |     |   |
 | January 16 | Blaine Mooers | Biochemistry and Physiology, OUHSC| Using Obsidian with AI to support scientific writing  | [video](https://mediasite.ou.edu/Mediasite/Channel/odsw/watch/ce8ff369ffcc41c7a6155c2b77f2cb7a1d?sortBy=most-recent)| [Materials from talk](https://github.com/Oklahoma-Data-Science-Workshop/2026-mooers-january)   |
 | **2025** | | | | | |
 | December 19| Blaine Mooers | Biochemistry and Physiology, OUHSC| AI-assisted Knowledge Management for Scientists |[Recording of talk and discussion](https://mediasite.ou.edu/Mediasite/Channel/odsw/watch/c5074cc713464cf493167f5ff2f1a66a1d?sortBy=most-recent)|[Materials from talk](https://github.com/Oklahoma-Data-Science-Workshop/2025-mooers-december) |
