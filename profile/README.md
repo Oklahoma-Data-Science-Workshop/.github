@@ -3,7 +3,7 @@
 ## What is the ODSW?
 This is the central site for sharing materials related to presentations made in the Oklahoma Data Science Workshop (ODSW) over the past several years.
 The ODSW is a platform for scientists to discuss how they utilize computing in their research.
-Many of the speakers work in departments where a departmental seminar may not be the most appropriate venue for them to discuss computing and software tools.
+Many of the speakers work in departments where a departmental seminar may not be the most appropriate venue to discuss computing and software tools.
 The DSW provides a venue for scientists to share their knowledge and experiences.
 
 ## What is talked about in the workshop?
@@ -14,7 +14,8 @@ Quite often, the tools and algorithms discussed are at the cutting edge and do n
 
 ## When do the meetings occur?
 The meetings are held at noon on the third Friday of each month except for July and December.
-The talks last for 1 hour, followed by a subsequent question-and-answer session that generally averages about 20 minutes in length.
+The talks last 1 hour, followed by a question-and-answer session that generally lasts about 20 minutes.
+These discussions are often quite valuable for deepening your understanding of key points in the talk and for adding new information.
 
 ## Upcoming Speakers
 
@@ -23,14 +24,15 @@ The talks last for 1 hour, followed by a subsequent question-and-answer session 
 | March 20, 2026 | Xijin Ge | Claude Code |
 | April 17, 2026 | Jindahl Shah | Experiences with Knowledge Management |
 | May 15, 2026 | Marcus Birkenkrahe| Agentic programming |
+| June 19, 2026 | Christopher Brown | Startup Culture |
 
 ## Are the talks recorded?
 Yes, both the talk and the discussions are recorded for later viewing.
 The videos of the talks and discussions are posted online within several working days [Link to videos](https://mediasite.ou.edu/Mediasite/Channel/odsw).
 
 ## Who gives the talks?
-Participants come from several institutions of higher learning in the state of Oklahoma, as well as guests from outside of the state.
-The talks are presented by scientists at all levels, with approximately a quarter of the talks given by graduate students.
+Participants come from several institutions of higher learning in Oklahoma, as well as guests from outside the state.
+The talks are presented by scientists at all levels, with approximately a quarter delivered by graduate students.
 Speakers either volunteer in response to a call for talks at the start of each semester or are recruited.
 
 ## What is the role of this website?
@@ -44,13 +46,15 @@ Do not take these lists as prescriptive; please use them as inspirational.
 
 ### Development Tools
 - reactive computing: pluto, marimo
-- Claude Code, aider, tmux
+- Claude Code, aider
+- The joy of tmux
 - Terminal emulators: kitty, Ghostty, warp, Alacrity, Wezterm
 - Windsurf, Cursor, helix, zed
 - Jupyter Lab, RStudio, Visual Studio Code
 - treesitter and LSPs
 - Agentic programming
-- 
+- Introduction to VS Code
+
 ### Knowledge Management
 - Personal knowledge management: supertags, Obsidian, org-roam, ekg, Logseq
 - Reference management
