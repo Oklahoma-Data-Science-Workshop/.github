@@ -79,7 +79,7 @@ Do not take these lists as prescriptive; please use them as inspirational.
 | Date | Speaker | Affiliation |Talk title | Video Link | Repository Link(s) |
 |------|---------|-------------|-----------|------------|--------------------| 
 | **2026** | | | | | |
-| February 27 | Matthew Younger | Computer Science, Lyon College |     |   |
+| February 27 | Matthew Younger | Computer Science, Lyon College | Polygot Programming in Emacs and Org-mode    | [video](https://mediasite.ou.edu/Mediasite/Channel/odsw/watch/19f27b09eff948989e0cd6a8754681a61d?sortBy=most-recent)  | |
 | January 16 | Blaine Mooers | Biochemistry and Physiology, OUHSC| Using Obsidian with AI to support scientific writing  | [video](https://mediasite.ou.edu/Mediasite/Channel/odsw/watch/ce8ff369ffcc41c7a6155c2b77f2cb7a1d?sortBy=most-recent)| [Materials from talk](https://github.com/Oklahoma-Data-Science-Workshop/2026-mooers-january)   |
 | **2025** | | | | | |
 | December 19| Blaine Mooers | Biochemistry and Physiology, OUHSC| AI-assisted Knowledge Management for Scientists |[Recording of talk and discussion](https://mediasite.ou.edu/Mediasite/Channel/odsw/watch/c5074cc713464cf493167f5ff2f1a66a1d?sortBy=most-recent)|[Materials from talk](https://github.com/Oklahoma-Data-Science-Workshop/2025-mooers-december) |
