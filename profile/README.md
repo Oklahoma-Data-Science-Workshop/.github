@@ -22,7 +22,7 @@ These discussions are often quite valuable for deepening your understanding of k
 | Date | Speaker | Topic |
 |------|---------|-------|
 | March 20, 2026 | Xijin Ge | Claude Code |
-| April 17, 2026 | Jindahl Shah | Experiences with Knowledge Management |
+| April 24, 2026 | Jindahl Shah | Experiences with Knowledge Management |
 | May 15, 2026 | Marcus Birkenkrahe| Agentic programming |
 | June 19, 2026 | Christopher Brown | Startup Culture |
 
