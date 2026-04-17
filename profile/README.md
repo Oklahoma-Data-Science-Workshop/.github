@@ -21,10 +21,20 @@ These discussions are often quite valuable for deepening your understanding of k
 
 | Date | Speaker | Topic |
 |------|---------|-------|
-| March 20, 2026 | Xijin Ge | Claude Code |
-| April 24, 2026 | Jindahl Shah | Experiences with Knowledge Management |
-| May 15, 2026 | Marcus Birkenkrahe| Agentic programming |
-| June 19, 2026 | Christopher Brown | Startup Culture |
+
+| May 15, 2026 | Marcus Birkenkrahe, Lyon College| Agentic programming |
+| June 19, 2026 |  OPEN   |  |
+| July  17, 2026 | Muralidharan Jayaraman, OUHC  | n8n |
+| August 21, 2026 |  OPEN   |  |
+| September 18, 2026 | Chase Brown, SFU  | AI |
+| October 16, 2026 | Christopher Brown and Thomas Mustard| Startup Culture and AI |
+| November 20, 2026 | OPEN  | Startup Culture |
+| Decemember 18, 2026 | OPEN |  |
+|------|---------|-------|
+| January 16, 2027 | OPEN | |
+| February 20, 2027 | OPEN | |
+| March 20, 2027 | OPEN | |
+| April 16, 2027 | Jindahl Shah, OSU | Experiences with Knowledge Management |
 
 ## Are the talks recorded?
 Yes, both the talk and the discussions are recorded for later viewing.
