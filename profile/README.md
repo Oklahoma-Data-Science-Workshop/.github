@@ -23,12 +23,12 @@ These discussions are often quite valuable for deepening your understanding of k
 |------|---------|-------|
 
 | May 15, 2026 | Marcus Birkenkrahe, Lyon College| Agentic programming |
-| June 19, 2026 |  OPEN   |  |
+| June 19, 2026 |  Michal Winnicki, Lausanne, Switzerland | Protein Design |
 | July  17, 2026 | Muralidharan Jayaraman, OUHC  | n8n |
 | August 21, 2026 |  OPEN   |  |
 | September 18, 2026 | Chase Brown, SFU  | AI |
 | October 16, 2026 | Christopher Brown and Thomas Mustard| Startup Culture and AI |
-| November 20, 2026 | OPEN  | Startup Culture |
+| November 20, 2026 | OPEN  |   |
 | Decemember 18, 2026 | OPEN |  |
 |------|---------|-------|
 | January 16, 2027 | OPEN | |
