@@ -21,10 +21,9 @@ These discussions are often quite valuable for deepening your understanding of k
 
 | Date | Speaker | Topic |
 |------|---------|-------|
-
-| May 15, 2026 | Marcus Birkenkrahe, Lyon College| Agentic programming |
+| May 15, 2026  | Marcus Birkenkrahe, Lyon College        | Agentic programming |
 | June 19, 2026 |  Michal Winnicki, Lausanne, Switzerland | Protein Design |
-| July  17, 2026 | Muralidharan Jayaraman, OUHC  | n8n |
+| July  17, 2026 | Muralidharan Jayaraman, OUHC           | n8n |
 | August 21, 2026 |  OPEN   |  |
 | September 18, 2026 | Chase Brown, SFU  | AI |
 | October 16, 2026 | Christopher Brown and Thomas Mustard| Startup Culture and AI |
