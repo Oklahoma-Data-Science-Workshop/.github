@@ -33,6 +33,14 @@ These discussions are often quite valuable for deepening your understanding of k
 | February 20, 2027 | OPEN | |
 | March 20, 2027 | OPEN | |
 | April 16, 2027 | Jindahl Shah, OSU | Experiences with Knowledge Management |
+| May 21, 2027 | OPEN | |
+| June 18, 2027 | OPEN | |
+| July 16, 2027 | OPEN | |
+| August 20, 2027 | OPEN | |
+| September 17, 2027 | OPEN | |
+| October 15, 2027 | OPEN | |
+| November 19, 2027 | OPEN | |
+| December 17, 2027 | OPEN | |
 
 ## Are the talks recorded?
 Yes, both the talk and the discussions are recorded for later viewing.
