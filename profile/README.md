@@ -95,8 +95,8 @@ Do not take these lists as prescriptive; please use them as inspirational.
 | Date | Speaker | Affiliation |Talk title | Video Link | Repository Link(s) |
 |------|---------|-------------|-----------|------------|--------------------| 
 | **2026** | | | | | |
-| May 15 | Marcus Birkenkrahe| Computer Science, Lyon College |   The Personal Software Era - Teaching Agentic AI and Coding to Absolute Beginners in a Data Science Coursev | [video](https://mediasite.ou.edu/Mediasite/Channel/odsw/watch/5e30e1fa06e54dcf9b2836cc4079f1811d?sortBy=most-recent) |  |
-| March 21      | Xijin (Steven)  Ge|  Statistics, South Dakota State University |  Vibe writing with Claude Code | [video](https://mediasite.ou.edu/Mediasite/Channel/odsw/watch/662f47f5d0c349b3807b692b387fa9071d?sortBy=most-recent)     |     |
+| May 15 | Marcus Birkenkrahe| Computer Science, Lyon College |   The Personal Software Era - Teaching Agentic AI and Coding to Absolute Beginners in a Data Science Course | [video](https://mediasite.ou.edu/Mediasite/Channel/odsw/watch/5e30e1fa06e54dcf9b2836cc4079f1811d?sortBy=most-recent) |  |
+| March 21      | Xijin (Steven)  Ge|  Statistics and Math, South Dakota State University |  Vibe writing with Claude Code | [video](https://mediasite.ou.edu/Mediasite/Channel/odsw/watch/662f47f5d0c349b3807b692b387fa9071d?sortBy=most-recent)     |     |
 | February 27 | Matthew Younger | Computer Science, Lyon College | Polygot Programming in Emacs and Org-mode    | [video](https://mediasite.ou.edu/Mediasite/Channel/odsw/watch/19f27b09eff948989e0cd6a8754681a61d?sortBy=most-recent)  | |
 | January 16 | Blaine Mooers | Biochemistry and Physiology, OUHSC| Using Obsidian with AI to support scientific writing  | [video](https://mediasite.ou.edu/Mediasite/Channel/odsw/watch/ce8ff369ffcc41c7a6155c2b77f2cb7a1d?sortBy=most-recent)| [Materials from talk](https://github.com/Oklahoma-Data-Science-Workshop/2026-mooers-january)   |
 | **2025** | | | | | |
