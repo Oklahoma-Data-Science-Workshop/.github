@@ -26,7 +26,7 @@ These discussions are often quite valuable for deepening your understanding of k
 | August 21, 2026 |  Cory Giles, OMRF   | TBA |
 | September 18, 2026 | Chase Brown, SFU  | AI |
 | October 16, 2026 | Christopher Brown and Thomas Mustard| Startup Culture and AI |
-| November 20, 2026 | OPEN  |   |
+| November 20, 2026 | Christopher Fennell, OSU HPC director and Chair of Chemistry  | TBA |
 | Decemember 18, 2026 | OPEN |  |
 |------|---------|-------|
 | January 16, 2027 | OPEN | |
