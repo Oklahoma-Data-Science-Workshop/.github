@@ -1,7 +1,7 @@
 # Oklahoma Data Science Workshop (ODSW)
 
 ## What is the ODSW?
-This is the central site for sharing materials related to presentations made in the Oklahoma Data Science Workshop (ODSW) over the past several years.
+This is the central site for sharing materials from presentations delivered at the Oklahoma Data Science Workshop (ODSW) over the past several years.
 The ODSW is a platform for scientists to discuss how they utilize computing in their research.
 Many of the speakers work in departments where a departmental seminar may not be the most appropriate venue to discuss computing and software tools.
 The DSW provides a venue for scientists to share their knowledge and experiences.
@@ -21,10 +21,9 @@ These discussions are often quite valuable for deepening your understanding of k
 
 | Date | Speaker | Topic |
 |------|---------|-------|
-| May 15, 2026  | Marcus Birkenkrahe, Lyon College        | Agentic programming |
 | June 19, 2026 |  Michal Winnicki, Lausanne, Switzerland | Protein Design |
 | July  17, 2026 | Muralidharan Jayaraman, OUHC           | n8n |
-| August 21, 2026 |  OPEN   |  |
+| August 21, 2026 |  Cory Giles, OMRF   | TBA |
 | September 18, 2026 | Chase Brown, SFU  | AI |
 | October 16, 2026 | Christopher Brown and Thomas Mustard| Startup Culture and AI |
 | November 20, 2026 | OPEN  |   |
@@ -46,7 +45,7 @@ Speakers either volunteer in response to a call for talks at the start of each s
 
 ## What is the role of this website?
 
-This Readme file provides information about the Data Science Workshop and serves as a gateway to the repositories associated with each recorded presentation.
+This README provides information about the Data Science Workshop and serves as a gateway to the repositories for each recorded presentation.
 Each repository allows a speaker to upload the associated slides, code files, competition notebooks, and other relevant materials to help attendees further their self-study.
 
 ## Open Topics for Future Presentations
@@ -88,6 +87,8 @@ Do not take these lists as prescriptive; please use them as inspirational.
 | Date | Speaker | Affiliation |Talk title | Video Link | Repository Link(s) |
 |------|---------|-------------|-----------|------------|--------------------| 
 | **2026** | | | | | |
+| May 15 | Marcus Birkenkrahe| Computer Science, Lyon College |   The Personal Software Era - Teaching Agentic AI and Coding to Absolute Beginners in a Data Science Coursev | [video](https://mediasite.ou.edu/Mediasite/Channel/odsw/watch/5e30e1fa06e54dcf9b2836cc4079f1811d?sortBy=most-recent) |  |
+| March 21      | Xijin (Steven)  Ge|  Statistics, South Dakota State University |  Vibe writing with Claude Code | [video](https://mediasite.ou.edu/Mediasite/Channel/odsw/watch/662f47f5d0c349b3807b692b387fa9071d?sortBy=most-recent)     |     |
 | February 27 | Matthew Younger | Computer Science, Lyon College | Polygot Programming in Emacs and Org-mode    | [video](https://mediasite.ou.edu/Mediasite/Channel/odsw/watch/19f27b09eff948989e0cd6a8754681a61d?sortBy=most-recent)  | |
 | January 16 | Blaine Mooers | Biochemistry and Physiology, OUHSC| Using Obsidian with AI to support scientific writing  | [video](https://mediasite.ou.edu/Mediasite/Channel/odsw/watch/ce8ff369ffcc41c7a6155c2b77f2cb7a1d?sortBy=most-recent)| [Materials from talk](https://github.com/Oklahoma-Data-Science-Workshop/2026-mooers-january)   |
 | **2025** | | | | | |
