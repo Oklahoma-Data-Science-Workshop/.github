@@ -22,11 +22,11 @@ These discussions are often quite valuable for deepening your understanding of k
 | Date | Speaker | Topic |
 |------|---------|-------|
 | June 19, 2026 |  Michal Winnicki, Lausanne, Switzerland | Protein Design |
-| July  17, 2026 | Muralidharan Jayaraman, OUHC           | n8n |
-| August 21, 2026 |  Cory Giles, OMRF   | TBA |
-| September 18, 2026 | Chase Brown, SFU  | AI |
+| July  17, 2026 | Muralidharan Jayaraman, University of Oklahoma Health Campus | n8n |
+| August 21, 2026 |  Cory Giles, Oklahoma Medical Research Foundation   | TBA |
+| September 18, 2026 | Chase Brown, Central Florida University  | AI |
 | October 16, 2026 | Christopher Brown and Thomas Mustard| Startup Culture and AI |
-| November 20, 2026 | Christopher Fennell, OSU HPC director and Chair of Chemistry  | TBA |
+| November 20, 2026 | Christopher Fennell, Oklahoma State U. HPC director and Chair of Chemistry  | TBA |
 | Decemember 18, 2026 | OPEN |  |
 |------|---------|-------|
 | January 16, 2027 | OPEN | |
