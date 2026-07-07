@@ -21,7 +21,7 @@ These discussions are often quite valuable for deepening your understanding of k
 
 | Date | Speaker | Topic |
 |------|---------|-------|
-| July  17, 2026 | Muralidharan Jayaraman, University of Oklahoma Health Campus | n8n |
+| July  17, 2026 | Muralidharan (Murali) Jayaraman, University of Oklahoma Health Campus | n8n and noncoding AI workflows |
 | August 21, 2026 |  Cory Giles, Oklahoma Medical Research Foundation   | TBA |
 | September 18, 2026 | Chase Brown, Central Florida University  | AI |
 | October 16, 2026 | Christopher Brown and Thomas Mustard, Schrodinger Inc. | Materials Science, Startup Culture and AI |
@@ -94,6 +94,7 @@ Do not take these lists as prescriptive; please use them as inspirational.
 | Date | Speaker | Affiliation |Talk title | Video Link | Repository Link(s) |
 |------|---------|-------------|-----------|------------|--------------------| 
 | **2026** | | | | | |
+|July 17 |Muralidharan (Murali) Jayaraman | SCC, OUHCS| From Workflows to Multi-Agent Automation: The Logical Progression of AI in Biology Research  |[repository](https://github.com/Oklahoma-Data-Science-Workshop/2026-jayaraman/blob/main/README.md)  | [video]() |
 | June 19|  Michal Winnicki| Barth Lab, EPFL, Lausanne, Switzerland | Beyond Nature: the past, present, and future of de novo protein design | [repository](https://github.com/Oklahoma-Data-Science-Workshop/2026-winnicki-june/blob/main/README.md) | [video](https://mediasite.ou.edu/Mediasite/Channel/odsw/watch/cbbc4390bb524185af44d46909d70dca1d?sortBy=most-recent) |
 | May 15 | Marcus Birkenkrahe| Computer Science, Lyon College |   The Personal Software Era - Teaching Agentic AI and Coding to Absolute Beginners in a Data Science Course | [video](https://mediasite.ou.edu/Mediasite/Channel/odsw/watch/5e30e1fa06e54dcf9b2836cc4079f1811d?sortBy=most-recent) |  |
 | March 21      | Xijin (Steven)  Ge|  Statistics and Math, South Dakota State University |  Vibe writing with Claude Code | [video](https://mediasite.ou.edu/Mediasite/Channel/odsw/watch/662f47f5d0c349b3807b692b387fa9071d?sortBy=most-recent)     |     |
