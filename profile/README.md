@@ -21,7 +21,6 @@ These discussions are often quite valuable for deepening your understanding of k
 
 | Date | Speaker | Topic |
 |------|---------|-------|
-| July  17, 2026 | Muralidharan (Murali) Jayaraman, University of Oklahoma Health Campus | n8n and noncoding AI workflows |
 | August 21, 2026 |  Cory Giles, Oklahoma Medical Research Foundation   | TBA |
 | September 18, 2026 | Chase Brown, Central Florida University  | AI |
 | October 16, 2026 | Christopher Brown and Thomas Mustard, Schrodinger Inc. | Materials Science, Startup Culture and AI |
@@ -42,7 +41,7 @@ These discussions are often quite valuable for deepening your understanding of k
 | December 17, 2027 | OPEN | |
 
 ## Are the talks recorded?
-Yes, both the talk and the discussions are recorded for later viewing.
+Yes, both the talks and the discussions are recorded for later viewing.
 The videos of the talks and discussions are posted online within several working days [Link to videos](https://mediasite.ou.edu/Mediasite/Channel/odsw).
 
 ## Who gives the talks?
