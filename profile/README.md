@@ -21,7 +21,7 @@ These discussions are often quite valuable for deepening your understanding of k
 
 | Date | Speaker | Topic |
 |------|---------|-------|
-| August 21, 2026 |  Cory Giles, Oklahoma Medical Research Foundation   | TBA |
+| August 28, 2026 |  Cory Giles, Oklahoma Medical Research Foundation   | Agentic AI |
 | September 18, 2026 | Chase Brown, Central Florida University  | AI |
 | October 16, 2026 | Christopher Brown and Thomas Mustard, Schrodinger Inc. | Materials Science, Startup Culture and AI |
 | November 20, 2026 | Christopher Fennell, Oklahoma State U. HPC director and Chair of Chemistry  | TBA |
