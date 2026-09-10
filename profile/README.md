@@ -92,6 +92,7 @@ Do not take these lists as prescriptive; please use them as inspirational.
 | Date | Speaker | Affiliation |Talk title | Video Link | Repository Link(s) |
 |------|---------|-------------|-----------|------------|--------------------| 
 | **2026** | | | | | |
+| August 28 | Cory Giles | Wren Lab, OMRF | Demystifying the "Agentic Stack" |[video](https://mediasite.ou.edu/Mediasite/Channel/odsw/watch/74737f0b175e4ed79c5deee5a36a89ab1d?sortBy=most-recent)  | [repository](https://github.com/gilesc/DSW-August-2026) |
 |July 17 |Muralidharan (Murali) Jayaraman | SCC, OUHCS| From Workflows to Multi-Agent Automation: The Logical Progression of AI in Biology Research  |[video](https://mediasite.ou.edu/Mediasite/Play/1ca347229867432dbd57d608d6df4ecd1d) | [repository](https://github.com/Oklahoma-Data-Science-Workshop/2026-jayaraman/blob/main/README.md)  |
 | June 19|  Michal Winnicki| Barth Lab, EPFL, Lausanne, Switzerland | Beyond Nature: the past, present, and future of de novo protein design | [video](https://mediasite.ou.edu/Mediasite/Channel/odsw/watch/cbbc4390bb524185af44d46909d70dca1d?sortBy=most-recent) | [repository](https://github.com/Oklahoma-Data-Science-Workshop/2026-winnicki-june/blob/main/README.md) |
 | May 15 | Marcus Birkenkrahe| Computer Science, Lyon College |   The Personal Software Era - Teaching Agentic AI and Coding to Absolute Beginners in a Data Science Course | [video](https://mediasite.ou.edu/Mediasite/Channel/odsw/watch/5e30e1fa06e54dcf9b2836cc4079f1811d?sortBy=most-recent) |  |
