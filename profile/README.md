@@ -29,7 +29,7 @@ These discussions are often quite valuable for deepening your understanding of k
 | January 16, 2027 | Pietro Dall'Olio, Computer Science, Lyon College | TBA |
 | February 20, 2027 | OPEN | |
 | March 20, 2027 | OPEN | |
-| April 16, 2027 | Jindahl Shah, OSU | Experiences with Knowledge Management |
+| April 16, 2027 | Jindahl Shah, OSU | TBA |
 | May 21, 2027 | OPEN | |
 | June 18, 2027 | OPEN | |
 | July 16, 2027 | OPEN | |
