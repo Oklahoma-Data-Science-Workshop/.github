@@ -21,11 +21,10 @@ These discussions are often quite valuable for deepening your understanding of k
 
 | Date | Speaker | Topic |
 |------|---------|-------|
-| August 28, 2026 |  Cory Giles, Oklahoma Medical Research Foundation   | Agentic AI |
-| September 18, 2026 | Chase Brown, Central Florida University  | AI |
+| September 18, 2026 | Chase Brown, University of Central Florida |Self-driving labs: Toward the 'transformer moment' for all of science  |
 | October 16, 2026 | Christopher Brown and Thomas Mustard, Schrodinger Inc. | Materials Science, Startup Culture and AI |
 | November 20, 2026 | Christopher Fennell, Oklahoma State U., HPC director and Chair of Chemistry  | TBA |
-| Decemember 18, 2026 | OPEN |  |
+| December 11, 2026 | Andy Fagg, University of Oklahoma, Computer Science | Part 1 of a tutorial on ZeroToNeuro   |
 |------|---------|-------|
 | January 16, 2027 | Pietro Dall'Olio, Computer Science, Lyon College | TBA |
 | February 20, 2027 | OPEN | |
