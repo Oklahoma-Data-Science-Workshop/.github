@@ -27,7 +27,7 @@ These discussions are often quite valuable for deepening your understanding of k
 | December 11, 2026 | Andy Fagg, University of Oklahoma, Computer Science | Part 1 of a tutorial on ZeroToNeuro   |
 |------|---------|-------|
 | January 16, 2027 | Pietro Dall'Olio, Computer Science, Lyon College | TBA |
-| February 20, 2027 | OPEN | |
+| February 20, 2027 | Andy Fagg, University of Oklahoma, Computer Science | Part 2 of a tutorial on ZeroToNeuro |
 | March 20, 2027 | OPEN | |
 | April 16, 2027 | Jindahl Shah, OSU | TBA |
 | May 21, 2027 | OPEN | |
