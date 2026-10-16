@@ -3,19 +3,19 @@
 ## What is the ODSW?
 This is the central site for sharing materials from presentations delivered at the Oklahoma Data Science Workshop (ODSW) over the past several years.
 The ODSW is a platform for scientists to discuss how they utilize computing in their research.
-Many of the speakers work in departments where a departmental seminar may not be the most appropriate venue to discuss computing and software tools.
+Many speakers work in departments where a departmental seminar may not be the most appropriate venue for discussing computing and software tools.
 The DSW provides a venue for scientists to share their knowledge and experiences.
 
 ## What is talked about in the workshop?
-Because the meetings are held in public, the speakers must be aware of the risks associated with discussing unpublished results.
+Because the meetings are public, speakers must be aware of the risks of discussing unpublished results.
 Likewise, results involving personal health information have to be de-identified.
 The same applies to identifying information regarding students who may have participated in a survey.
-Quite often, the tools and algorithms discussed are at the cutting edge and do not appear in formal coursework for several years, if ever.
+Quite often, the tools and algorithms discussed are cutting-edge and do not appear in formal coursework for several years, if ever.
 
 ## When do the meetings occur?
-The meetings are held at noon on the third Friday of each month except for July and December.
+Meetings are held at noon on the third Friday of each month, except in July and December.
 The talks last 1 hour, followed by a question-and-answer session that generally lasts about 20 minutes.
-These discussions are often quite valuable for deepening your understanding of key points in the talk and for adding new information.
+These discussions are often valuable for deepening your understanding of key points and adding new information.
 
 ## Upcoming Speakers
 
@@ -27,7 +27,7 @@ These discussions are often quite valuable for deepening your understanding of k
 | January 16, 2027 | Pietro Dall'Olio, Computer Science, Lyon College | TBA |
 | February 20, 2027 | Andy Fagg, University of Oklahoma, Computer Science | Part 2 of a tutorial on ZeroToNeuro |
 | March 20, 2027 |  Christopher Fennell, Oklahoma State U., HPC director and Chair of Chemistry  | TBA |
-| April 16, 2027 | Jindahl Shah, OSU | TBA |
+| April 16, 2027 | Jindahl Shah, Oklahoma State U. | TBA |
 | May 21, 2027 | OPEN | |
 | June 18, 2027 | OPEN | |
 | July 16, 2027 | OPEN | |
@@ -53,7 +53,7 @@ Each repository lets a speaker upload the associated slides, code files, competi
 
 ## Open Topics for Future Presentations
 
-Do not take these lists as prescriptive; please use them as inspiration.
+These lists are not prescriptive; please use them as inspiration.
 
 ### Development Tools
 - reactive computing: Pluto, marimo
