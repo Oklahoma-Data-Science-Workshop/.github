@@ -21,8 +21,6 @@ These discussions are often quite valuable for deepening your understanding of k
 
 | Date | Speaker | Topic |
 |------|---------|-------|
-| September 18, 2026 | Chase Brown, University of Central Florida |Self-driving labs: Toward the 'transformer moment' for all of science  |
-| October 16, 2026 | Christopher Brown and Thomas Mustard, Schrodinger Inc. | Materials Science, Startup Culture and AI |
 | November 20, 2026 | Christopher Fennell, Oklahoma State U., HPC director and Chair of Chemistry  | TBA |
 | December 11, 2026 | Andy Fagg, University of Oklahoma, Computer Science | Part 1 of a tutorial on ZeroToNeuro   |
 |------|---------|-------|
@@ -45,17 +43,17 @@ The videos of the talks and discussions are posted online within several working
 
 ## Who gives the talks?
 Participants come from several institutions of higher learning in Oklahoma, as well as guests from outside the state.
-The talks are presented by scientists at all levels, with approximately a quarter delivered by graduate students.
+Scientists at all levels present the talks, with approximately a quarter delivered by graduate students.
 Speakers either volunteer in response to a call for talks at the start of each semester or are recruited.
 
 ## What is the role of this website?
 
-This README provides information about the Data Science Workshop and serves as a gateway to the repositories for each recorded presentation.
-Each repository allows a speaker to upload the associated slides, code files, competition notebooks, and other relevant materials to help attendees further their self-study.
+This README provides information about the Data Science Workshop and serves as a gateway to each recorded presentation's repository.
+Each repository lets a speaker upload the associated slides, code files, competition notebooks, and other relevant materials to support attendees' self-study.
 
 ## Open Topics for Future Presentations
 
-Do not take these lists as prescriptive; please use them as inspirational.
+Do not take these lists as prescriptive; please use them as inspiration.
 
 ### Development Tools
 - reactive computing: Pluto, marimo
@@ -92,6 +90,8 @@ Do not take these lists as prescriptive; please use them as inspirational.
 | Date | Speaker | Affiliation |Talk title | Video Link | Repository Link(s) |
 |------|---------|-------------|-----------|------------|--------------------| 
 | **2026** | | | | | |
+| October 16, 2026 | Christopher Brown and Thomas Mustard, formerly Schrodinger Inc. | Materials Science and AI |  | | |
+| September 18, 2026 | Chase Brown, University of Central Florida |Self-driving labs: Toward the 'transformer moment' for all of science  |  | | |
 | August 28 | Cory Giles | Wren Lab, OMRF | Demystifying the "Agentic Stack" |[video](https://mediasite.ou.edu/Mediasite/Channel/odsw/watch/74737f0b175e4ed79c5deee5a36a89ab1d?sortBy=most-recent)  | [repository](https://github.com/gilesc/DSW-August-2026) |
 |July 17 |Muralidharan (Murali) Jayaraman | SCC, OUHCS| From Workflows to Multi-Agent Automation: The Logical Progression of AI in Biology Research  |[video](https://mediasite.ou.edu/Mediasite/Play/1ca347229867432dbd57d608d6df4ecd1d) | [repository](https://github.com/Oklahoma-Data-Science-Workshop/2026-jayaraman/blob/main/README.md)  |
 | June 19|  Michal Winnicki| Barth Lab, EPFL, Lausanne, Switzerland | Beyond Nature: the past, present, and future of de novo protein design | [video](https://mediasite.ou.edu/Mediasite/Channel/odsw/watch/cbbc4390bb524185af44d46909d70dca1d?sortBy=most-recent) | [repository](https://github.com/Oklahoma-Data-Science-Workshop/2026-winnicki-june/blob/main/README.md) |
