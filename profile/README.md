@@ -21,12 +21,12 @@ These discussions are often quite valuable for deepening your understanding of k
 
 | Date | Speaker | Topic |
 |------|---------|-------|
-| November 20, 2026 | Christopher Fennell, Oklahoma State U., HPC director and Chair of Chemistry  | TBA |
+| November 20, 2026 | Blaine Mooers | Agentic crystallography on the OSCER supercomputer |
 | December 11, 2026 | Andy Fagg, University of Oklahoma, Computer Science | Part 1 of a tutorial on ZeroToNeuro   |
 |------|---------|-------|
 | January 16, 2027 | Pietro Dall'Olio, Computer Science, Lyon College | TBA |
 | February 20, 2027 | Andy Fagg, University of Oklahoma, Computer Science | Part 2 of a tutorial on ZeroToNeuro |
-| March 20, 2027 | OPEN | |
+| March 20, 2027 |  Christopher Fennell, Oklahoma State U., HPC director and Chair of Chemistry  | TBA |
 | April 16, 2027 | Jindahl Shah, OSU | TBA |
 | May 21, 2027 | OPEN | |
 | June 18, 2027 | OPEN | |
