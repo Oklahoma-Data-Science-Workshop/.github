@@ -15,13 +15,13 @@ Quite often, the tools and algorithms discussed are cutting-edge and do not appe
 ## When do the meetings occur?
 Meetings are held at noon on the third Friday of each month, except in July and December.
 The talks last 1 hour, followed by a question-and-answer session that generally lasts about 20 minutes.
-These discussions are often valuable for deepening your understanding of key points and adding new information.
+These discussions often deepen your understanding of key points and add new information.
 
 ## Upcoming Speakers
 
 | Date | Speaker | Topic |
 |------|---------|-------|
-| November 20, 2026 | Blaine Mooers | Agentic crystallography on the OSCER supercomputer |
+| December 04, 2026 | Blaine Mooers | AI in protein structure determination |
 | December 11, 2026 | Andy Fagg, University of Oklahoma, Computer Science | Part 1 of a tutorial on ZeroToNeuro   |
 |------|---------|-------|
 | January 16, 2027 | Pietro Dall'Olio, Computer Science, Lyon College | TBA |
@@ -39,10 +39,10 @@ These discussions are often valuable for deepening your understanding of key poi
 
 ## Are the talks recorded?
 Yes, both the talks and the discussions are recorded for later viewing.
-The videos of the talks and discussions are posted online within several working days [Link to videos](https://mediasite.ou.edu/Mediasite/Channel/odsw).
+The videos are posted online within several working days [Link to videos](https://mediasite.ou.edu/Mediasite/Channel/odsw).
 
 ## Who gives the talks?
-Participants come from several institutions of higher learning in Oklahoma, as well as guests from outside the state.
+Participants come from several Oklahoma institutions of higher learning, as well as guests from outside the state.
 Scientists at all levels present the talks, with approximately a quarter delivered by graduate students.
 Speakers either volunteer in response to a call for talks at the start of each semester or are recruited.
 
@@ -76,7 +76,7 @@ These lists are not prescriptive; please use them as inspiration.
 - Regular expressions, speech-to-text
 - Simulations in data analysis
 - AI art
-- prompt engineering
+- Prompt engineering
 
 **What is discussed in the workshop?**
 - Cutting-edge tools and algorithms
